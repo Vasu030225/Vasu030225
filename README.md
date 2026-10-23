@@ -1,176 +1,80 @@
-<h1 align="center">Hi 👋, I'm Vasudha Varshney</h1>
+<div align="center">
 
-<h3 align="center">
-Custom Software Engineering Sr Analyst | Data Engineer | GenAI Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0e7490&height=210&section=header&text=Vasudha%20Varshney&fontSize=48&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Data%20%7C%20AI%20%7C%20Automation&descSize=18&descAlignY=58" alt="Vasudha Varshney — Data, AI, and Automation" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Engineer;Automation+Developer;Azure+AI+Engineer;GenAI+%7C+RAG+%7C+LLMOps;Building+Enterprise+AI+Solutions" />
-</p>
+### Custom Software Engineering Sr Analyst · Data Engineer · GenAI Enthusiast
 
-<hr>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=67E8F9&center=true&vCenter=true&width=650&lines=Building+useful+things+with+data+%26+AI;GenAI+%7C+RAG+%7C+Agentic+Systems;Automating+the+busywork%2C+one+pipeline+at+a+time;Fueled+by+curiosity+and+coffee+%E2%98%95" alt="A rotating introduction" />
 
-<h2>🚀 About Me</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vvarsh)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasudha.varshney@accenture.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasu030225)
 
-<ul>
-  <li>💼 Custom Software Engineering Sr Analyst</li>
-  <li>☁️ Working with Azure Cloud, AI Search, OpenAI & Enterprise AI Solutions</li>
-  <li>🤖 Building GenAI, RAG, Agentic AI and Automation Solutions</li>
-  <li>📊 Experienced in Data Engineering, ETL Pipelines and Workflow Automation</li>
-  <li>🔍 Exploring Secure AI Architectures & Enterprise Knowledge Systems</li>
-  <li>🌱 Currently learning Advanced LLMOps & Multi-Agent Systems</li>
-</ul>
+☕ Coffee in hand, curiosity switched on. Let's build something meaningful! ✨
 
-<hr>
+</div>
 
-<h2>🛠️ Tech Stack</h2>
+---
 
-<h3>Programming Languages</h3>
+## 👋 A little about me
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
+I work at the intersection of **data engineering, cloud, and applied AI**—turning complex workflows into useful, dependable solutions.
 
-<h3>Cloud & AI</h3>
+- 💼 Custom Software Engineering Sr Analyst
+- ☁️ Working with Azure Cloud, AI Search, OpenAI, and enterprise AI solutions
+- 🤖 Building GenAI, RAG, agentic AI, and automation solutions
+- 📊 Experienced in data engineering, ETL pipelines, and workflow automation
+- 🔐 Exploring secure AI architectures and enterprise knowledge systems
+- 🌱 Currently learning advanced LLMOps and multi-agent systems
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes" />
-</p>
+## 🧰 My toolkit
 
-<h3>Data Engineering</h3>
+<div align="center">
 
-<p>
-✅ Apache Airflow<br>
-✅ Azure Data Factory<br>
-✅ ETL Pipelines<br>
-✅ SQL & Data Warehousing<br>
-✅ Data Quality Automation
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" alt="Python, Java, JavaScript, HTML, and CSS" />
 
-<h3>AI / GenAI</h3>
+### Cloud & infrastructure
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes&theme=dark" alt="Azure, Docker, and Kubernetes" />
 
-<p>
-✅ Azure OpenAI<br>
-✅ RAG Architecture<br>
-✅ Azure AI Search<br>
-✅ LangChain<br>
-✅ Vector Databases<br>
-✅ LLMOps<br>
-✅ Agentic AI
-</p>
+</div>
 
-<hr>
+| 📊 Data engineering | ✨ AI & GenAI |
+|:--|:--|
+| Apache Airflow · Azure Data Factory | Azure OpenAI · Azure AI Search |
+| ETL pipelines · SQL & data warehousing | RAG · LangChain · vector databases |
+| Data quality automation | LLMOps · agentic AI |
 
-<h2>🏆 Featured Projects</h2>
+## 🚀 Things I've worked on
 
-<table>
-<tr>
-<td width="50%">
+| Project | What it does |
+|:--|:--|
+| 🔐 **Secure HR Assistant** | Secure RAG experience connecting Azure AI Search with ServiceNow, Jira, Confluence, and SharePoint. |
+| ⚡ **SLA Breach Notification System** | Airflow monitoring, automated alerts, and enterprise operational reporting. |
+| 🤖 **Tokenization Auto-Healer** | Detects failures and supports pipeline recovery with data validation and automation. |
+| 📊 **Customer 360 Platform** | Brings together data integration, analytics, enterprise insights, and AI-powered search. |
 
-<h3>🔐 Secure HR Assistant</h3>
+## 📈 GitHub at a glance
 
-<ul>
-<li>Azure AI Search</li>
-<li>ServiceNow Integration</li>
-<li>Jira Integration</li>
-<li>Confluence Integration</li>
-<li>SharePoint Integration</li>
-<li>Secure RAG Architecture</li>
-</ul>
+<div align="center">
 
-</td>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vasu030225&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub profile statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu030225&layout=compact&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=cbd5e1" alt="Most-used programming languages" />
 
-<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu030225&hide_border=true&background=0d1117&ring=67e8f9&fire=a78bfa&currStreakLabel=67e8f9&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub contribution streak" />
 
-<h3>⚡ SLA Breach Notification System</h3>
+</div>
 
-<ul>
-<li>Airflow Monitoring</li>
-<li>Automated Alerts</li>
-<li>Enterprise Reporting</li>
-<li>Operational Intelligence</li>
-</ul>
+## 🎯 What I'm exploring
 
-</td>
-</tr>
+`Generative AI` · `Agentic AI` · `Enterprise RAG` · `Azure AI Search` · `LLMOps & Monitoring` · `Secure AI Architecture`
 
-<tr>
-<td width="50%">
+---
 
-<h3>🤖 Tokenization Auto-Healer</h3>
+<div align="center">
 
-<ul>
-<li>Failure Detection</li>
-<li>Pipeline Recovery</li>
-<li>Data Validation</li>
-<li>Automation Framework</li>
-</ul>
+### Thanks for stopping by! 👋
+**Have an idea to build or a problem to untangle? Let's connect.**  
+Made with curiosity, good coffee, and a little bit of ☕ magic ✨
 
-</td>
-
-<td width="50%">
-
-<h3>📊 Customer 360 Platform</h3>
-
-<ul>
-<li>Data Integration</li>
-<li>Analytics</li>
-<li>Enterprise Insights</li>
-<li>AI-powered Search</li>
-</ul>
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-<h2>📈 GitHub Statistics</h2>
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Vasu030225&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu030225&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu030225&theme=tokyonight"/>
-
-</p>
-
-<hr>
-
-<h2>🌐 Connect With Me</h2>
-
-<p align="center">
-
-<a href="https://linkedin.com/in/vvarsh">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vasudha.varshney@accenture.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Vasu030225">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<hr>
-
-<h2>💡 Current Focus</h2>
-
-```text
-🔹 Generative AI Applications
-🔹 Agentic AI Systems
-🔹 Enterprise RAG Solutions
-🔹 Azure AI Search
-🔹 LLMOps & Monitoring
-🔹 Secure AI Architecture
+</div>
